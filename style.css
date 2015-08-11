@@ -20,6 +20,15 @@ img {
 	text-align: center;
 }
 
+/*doesn't work*/
+#menu .navbar{
+	background: white;
+	background-image: url(images/backgrounds/menudesign.png);
+	background: no-repeat;
+	background-image: url(images/backgrounds/trebleclef.png); 
+	background-size: contain;
+}
+
 /* Home Page */
 #home {
 	background: url(images/backgrounds/1.jpg) no-repeat center center fixed;
