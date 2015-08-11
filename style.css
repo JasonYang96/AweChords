@@ -62,8 +62,18 @@ img {
 
 /* Panel Section */
 .pad-section {
+	/*background-color: green;*/
+	background-image: url(images/backgrounds/MusicPattern.png);
 	padding: 70px 0;
 	margin: 0 auto;
+}
+
+.pad-section .container .row h1{
+	background-color: transparent;
+	background-image: url(images/backgrounds/aboutmaroonbackground.png);
+}
+.pad-section .container .row .about_body{
+	background-image: url(images/backgrounds/aboutsectiontransparentbackground.png);
 }
 
 /* Events Page */
